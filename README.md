@@ -10,6 +10,10 @@ Projeto acadêmico com o intuito de criar um banco de dados completo em NodeJS.
 * [TypeORM](https://typeorm.io/)
 * [Jest](https://jestjs.io/docs/cli)
 
+Estrutura do banco:
+
+* [Link do Diagrama](https://conteudo-kenzie-fullstack.vercel.app/modulo_4/sprint_6/6_entrega/DER-Entrega5.png)
+
 
 
 ## 🔧 Instalação
